@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "426813047618",
-    "project_id": "sahoolat-bazar",
-    "storage_bucket": "sahoolat-bazar.appspot.com"
+    "project_number": "759291097251",
+    "project_id": "sahulatbazar-e5b53",
+    "storage_bucket": "sahulatbazar-e5b53.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:426813047618:android:3f0fcc00303eeac1507edb",
+        "mobilesdk_app_id": "1:759291097251:android:13c869dffca4a1fee64f16",
         "android_client_info": {
           "package_name": "com.example.sahoolar_bazar"
         }
       },
       "oauth_client": [
         {
-          "client_id": "426813047618-hm3mf0je48fmffoa4qu3gm36kjbfm37j.apps.googleusercontent.com",
+          "client_id": "759291097251-qq3sgvmka909uq5latoc4rortq4soe1n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB0EDJYMLbTZwKSflrFVF1J_jcF4y4Hzps"
+          "current_key": "AIzaSyCB216GWsvWXPvmC7kdoB4svC_4GG36tXE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "426813047618-hm3mf0je48fmffoa4qu3gm36kjbfm37j.apps.googleusercontent.com",
+              "client_id": "759291097251-qq3sgvmka909uq5latoc4rortq4soe1n.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -9,7 +9,7 @@ class MainPage extends StatelessWidget {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('SAHOOLAT BAZAR'),
+          title: Text('SAHULAT BAZAR'),
           bottom: TabBar(tabs: [
             Tab(
               child: Text('LOGIN'),
